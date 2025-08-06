@@ -3,7 +3,7 @@
     "displayName": "justToken",
     "repository": "https://github.com/gabz-23/yaak-plugin-justToken",
     "private": true,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/gabz-23/yaak-plugin-justToken",
     "scripts": {
         "build": "yaakcli build"
