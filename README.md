@@ -18,6 +18,6 @@ npm install
 
 3. Exportar el plugin en Yaak ![addplugin](./src/assets/addplugin-1.png) ![addplugin](./src/assets/addplugin-2.png)
 
-### :white_check_mark: Con estos pasos puedes disfrutar de jusToken
+### :white_check_mark: Con estos pasos puedes disfrutar de justToken
 
 Si te ha gustado, dejamelo saber apoyando el repositorio con una estrella :star:
